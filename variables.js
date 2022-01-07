@@ -14,6 +14,7 @@ let faveNum = 7
 /* Create a variable called 'lovesCode' and assign it a boolean value. */
 
 //CODE HERE
+let lovesCode = true
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -23,6 +24,11 @@ let faveNum = 7
 */
 
 //CODE HERE
+if (faveNum == 13) {
+  console.log('lucky 13!')
+} else {
+  console.log('not lucky 13')
+}
 
 //////////////////PROBLEM 5////////////////////
 /*
