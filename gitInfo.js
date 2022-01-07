@@ -28,6 +28,7 @@ const gitHubDefinition = "It's a website that lets you take your git repositorie
 */
 
 //CODE HERE
+const gitInitDefinition = "Initializes your folder for git, so you can add commands to add files, take snapshots of the code, etc. in the folder. This ultimately lets you add it to github."
 
 //////////////////PROBLEM 4////////////////////
 /*
@@ -36,6 +37,7 @@ const gitHubDefinition = "It's a website that lets you take your git repositorie
 */
 
 //CODE HERE
+const gitCloneDefinition = "it copies the respository from Github, so you can put in on your machine locally."
 
 //////////////////PROBLEM 5////////////////////
 /*
@@ -44,6 +46,7 @@ const gitHubDefinition = "It's a website that lets you take your git repositorie
 */
 
 //CODE HERE
+const gitStatusDefinition = "tells the user information about the repository they're in."
 
 //////////////////PROBLEM 6////////////////////
 /*
@@ -55,6 +58,10 @@ const gitHubDefinition = "It's a website that lets you take your git repositorie
 */
 
 //CODE HERE
+
+const gitAddDefinition = "lets you add files to the repository so they can be tracked."
+
+let gitAddCode = "git add ."
 
 //////////////////PROBLEM 7////////////////////
 /*
