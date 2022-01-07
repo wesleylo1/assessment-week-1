@@ -73,6 +73,9 @@ let gitAddCode = "git add ."
 */
 
 //CODE HERE
+const gitCommitDefinition = "creates a snapshot of the file(s) you're tracking. Similar to saving a project, but for git."
+
+let gitCommitCode = "git commit -am 'initial commit'"
 
 
 //////////////////PROBLEM 8////////////////////
@@ -82,3 +85,4 @@ let gitAddCode = "git add ."
 */
 
 //CODE HERE
+const gitPushDefinition = "uploads your local commits to github."
