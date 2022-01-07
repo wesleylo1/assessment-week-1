@@ -10,6 +10,7 @@
 */
 
 //CODE HERE
+const gitDefinition = "Git is a version control system. It's a system that lets people keep track of changes to code projects, which helps prevents bugs and loss of progress."
 
 //////////////////PROBLEM 2////////////////////
 /*
@@ -18,6 +19,7 @@
 */
 
 //CODE HERE
+const gitHubDefinition = "It's a website that lets you take your git repositories (code projects) and upload or download them from the website. Basically a cloud service for git respositories. Great for remote team projects or just storing repositories."
 
 //////////////////PROBLEM 3////////////////////
 /*
