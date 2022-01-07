@@ -22,5 +22,5 @@ const planning = "This is the first step, in which the end goal of the software 
 const analysisOfRequirements = "Addresses the requirements, function, purpose, and expectations of the product to be developed. Developers would analyze and document these specifications."
 const design = "Developers define the architecture of the software system and determine the hardwware requirements."
 const implementation = "Using what was determined in the previous step, developers work on units, or small programs that work together to form the entire system. Includes testing each unit, portion of code, to make sure they work."
-const testingAndIntegration = "Combine the different units into a single system, and test them for any bugs and erros."
+const testingAndIntegration = "Combine the different units into a single system, and test them for any bugs and errors."
 const maintain = "Developers address any problems that become known during the use of the software after sales, or open to the public. They provide support in terms of patches and troubleshooting."
